@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @ya-zhao
+- 👋 Hi, I’m @ya-zhao.
 - 👀 I’m interested in front-end development.
 - 🌱 I’m currently learning HTML, CSS & JavaScript.
